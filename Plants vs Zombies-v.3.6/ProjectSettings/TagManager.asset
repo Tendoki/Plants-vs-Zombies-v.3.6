@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plant
+  - Canvas
+  - Sun
+  - Slot
+  - Zombie
+  - Bullet
+  - Shovel
+  - Lawn_Mower
+  - Explosion
+  - Undefined
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DraggingPlant
+  - Slot
+  - Object
+  - Zombie
+  - Bullet
+  - Sun
+  - Outside Colliders
+  - Finish Line
+  - DraggingShovel
+  - Shovel
+  - Destroy Pea
+  - Lawn_Mower
+  - Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plant
+    uniqueID: 31661043
+    locked: 0
+  - name: Zombie
+    uniqueID: 2157849941
+    locked: 0
+  - name: Zombie0
+    uniqueID: 2686894567
+    locked: 0
+  - name: Lawn_Mower0
+    uniqueID: 1184764383
+    locked: 0
+  - name: Zombie1
+    uniqueID: 1545208789
+    locked: 0
+  - name: Lawn_Mower1
+    uniqueID: 3450053099
+    locked: 0
+  - name: Zombie2
+    uniqueID: 2878900273
+    locked: 0
+  - name: Lawn_Mower2
+    uniqueID: 868466649
+    locked: 0
+  - name: Zombie3
+    uniqueID: 2142343999
+    locked: 0
+  - name: Lawn_Mower3
+    uniqueID: 2872252587
+    locked: 0
+  - name: Zombie4
+    uniqueID: 4151760029
+    locked: 0
+  - name: Lawn_Mower4
+    uniqueID: 3527566621
+    locked: 0
+  - name: Bullet
+    uniqueID: 4110415451
+    locked: 0
+  - name: Sun
+    uniqueID: 3468778435
+    locked: 0
+  - name: DraggingPlant
+    uniqueID: 3485571677
+    locked: 0
+  - name: StayZombie0
+    uniqueID: 1194320245
+    locked: 0
+  - name: StayZombie1
+    uniqueID: 4282274441
+    locked: 0
+  - name: StayZombie2
+    uniqueID: 1056703729
+    locked: 0
+  - name: StayZombie3
+    uniqueID: 77349431
+    locked: 0
+  - name: StayZombie4
+    uniqueID: 2497138369
+    locked: 0
+  - name: StayZombie5
+    uniqueID: 3941568701
+    locked: 0
+  - name: StayZombie6
+    uniqueID: 885067021
+    locked: 0
+  - name: StayZombie7
+    uniqueID: 3859343113
+    locked: 0
+  - name: StayZombie8
+    uniqueID: 3406370299
+    locked: 0
+  - name: StayZombie9
+    uniqueID: 1934726979
+    locked: 0
+  - name: YouLose
+    uniqueID: 2509926151
+    locked: 0

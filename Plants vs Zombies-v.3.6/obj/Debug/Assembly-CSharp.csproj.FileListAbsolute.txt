@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Desktop\Plants-vs-Zombies-v.2-main\Plants vs Zombies (2)\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Plants-vs-Zombies-v.2-main\Plants vs Zombies (2)\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
