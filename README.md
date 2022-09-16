@@ -1,6 +1,6 @@
 ## Plants vs Zombies
 
-### Попытка повторить Plants vs Zombies на юнити
+### Попытка повторить Plants vs Zombies на Unity
 
 ## Основные механики повторены:
 1) Выбор растений
